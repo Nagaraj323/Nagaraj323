@@ -26,6 +26,7 @@ I believe in one thing : **"Don't repeat a task manually when you can automate i
 | 🐍 Python | Scripts and test utilities |
 | 🚗 CAPL | Automotive test scripting |
 | 🖥️ GUI Development | Practical tools for smoother workflows |
+| 🌐 Additional Areas | Process Automation,  Hardware Integration, API Development|
 
 ### 🌐 Additional Areas
 
