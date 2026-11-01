@@ -4,9 +4,9 @@
 
 ### Automotive Software Test Engineer | Python Automation | GUI & Tool Development
 
-I am Automotive Software Test Engineer passionate about simplifying complex testing workflows through automation, scripting, and custom tool development.
-I Specialize in developing Python based automation solutions, CAPL scripts and GUI applications to improve testing efficiency and reduce repetitive manual effort.
-I believe in one thing : **"Don't repeat a task manually when you can automate it intelligently!"**
+- I am Automotive Software Test Engineer passionate about simplifying complex testing workflows through automation, scripting, and custom tool development.
+- I Specialized in developing Python based automation solutions, CAPL scripts and GUI applications to improve testing efficiency and reduce repetitive manual effort.
+- I believe in one thing : **"Don't repeat a task manually when you can automate it intelligently!"**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CAPL](https://img.shields.io/badge/CAPL-0078D4?style=for-the-badge)
@@ -27,13 +27,6 @@ I believe in one thing : **"Don't repeat a task manually when you can automate i
 | 🚗 CAPL | Automotive test scripting |
 | 🖥️ GUI Development | Practical tools for smoother workflows |
 | 🌐 Additional Areas | Process Automation,  Hardware Integration, API Development|
-
-### 🌐 Additional Areas
-
-![Process Automation](https://img.shields.io/badge/Process_Automation-2E8B57?style=flat-square)
-![Hardware Integration](https://img.shields.io/badge/Hardware_Integration-0078D4?style=flat-square)
-![Video Streaming](https://img.shields.io/badge/Video_Streaming-EA580C?style=flat-square)
-![API Development](https://img.shields.io/badge/API_Development-7A3E9D?style=flat-square)
 
 ---
 
