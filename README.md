@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nagaraj
+# 👋 Hi, I'm Nagaraju
 
 ### Automotive Test Engineer | Automation & GUI Development
 
