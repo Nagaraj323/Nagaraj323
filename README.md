@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Nagaraju
 
-### Automotive Test Engineer | Automation & GUI Development
+### Automotive Software Test Engineer | Python Automation | GUI & Tool Development
 
-Automotive Test Engineer focused on simplifying testing through automation. I build Python and CAPL scripts and GUIs to reduce manual effort and streamline testing workflows.
+I am Automotive Software Test Engineer passionate about simplifying complex testing workflows through automation, scripting, and custom tool development.
+I Specialize in developing Python based automation solutions, CAPL scripts and GUI applications to improve testing efficiency and reduce repetitive manual effort.
+I believe in one thing : **"Don't repeat a task manually when you can automate it intelligently!"**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CAPL](https://img.shields.io/badge/CAPL-0078D4?style=for-the-badge)
